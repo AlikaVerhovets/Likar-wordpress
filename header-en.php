@@ -21,9 +21,8 @@
     <link rel="stylesheet" href="<?php bloginfo('template_directory') ?>/style.css">
     <link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory') ?>/slick/slick.css"/>
     <link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory') ?>/slick/slick-theme.css"/>
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+
     <script type="text/javascript" src="<?php bloginfo('template_directory') ?>/libs/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.15/jquery.mask.min.js"></script>
     <script type="text/javascript" src="<?php bloginfo('template_directory') ?>/libs/jquery.mask.min.js"></script>
 </head>
 <body>
