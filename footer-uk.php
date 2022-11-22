@@ -70,8 +70,6 @@
 
   
   <script type="text/javascript" src="<?php bloginfo('template_directory') ?>/libs/jquery.js"></script>
-  <script src="https://code.jquery.com/jquery-2.1.0.js"></script>
-
   <script type="text/javascript" src="<?php bloginfo('template_directory') ?>/slick/slick.min.js"></script>
 
   <script src="<?php bloginfo('template_directory') ?>/js/main.js"></script>
